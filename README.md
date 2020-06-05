@@ -1,2 +1,2 @@
 # frnchambers.github.io
-A website for the scientist.
+A professional website for the Frank Chambers. Template from https://startbootstrap.com/themes/resume/.
